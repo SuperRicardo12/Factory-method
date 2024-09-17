@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory method", "Factory method\Factory method.csproj", "{69EC615F-8207-497D-AAE1-0B7511790D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method Lib", "Factory Method Lib\Factory Method Lib.csproj", "{135B807E-E131-4276-9620-5DC5C063AE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EC615F-8207-497D-AAE1-0B7511790D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EC615F-8207-497D-AAE1-0B7511790D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EC615F-8207-497D-AAE1-0B7511790D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EC615F-8207-497D-AAE1-0B7511790D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135B807E-E131-4276-9620-5DC5C063AE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135B807E-E131-4276-9620-5DC5C063AE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135B807E-E131-4276-9620-5DC5C063AE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135B807E-E131-4276-9620-5DC5C063AE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807889A1-7BB0-4A1D-8A7C-F77EFB6FDDBE}
+	EndGlobalSection
+EndGlobal
